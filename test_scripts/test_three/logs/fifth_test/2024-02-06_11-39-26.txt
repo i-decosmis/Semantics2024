@@ -1,0 +1,15 @@
+User: Write only the name and the year of the movies. Write a single list of movies that comprends every genres in my preferences.These are my favourite film: [Nurse Betty, Gladiator, Being John Malkovich, Summer of Sam, Aliens, Sixth Sense, The, Rushmore, Pacific Heights, Godfather: Part II, The, Twelve Monkeys, Dead Calm, Thirteenth Floor, The, Civil Action, A, Star Wars: Episode IV - A New Hope, Dark City, Shawshank Redemption, The, Moonstruck, Blood Simple, Godfather, The, Fisher King, The, Fish Called Wanda, A, Reservoir Dogs, Desperately Seeking Susan, Abyss, The, Little Voice].Sort this list using my preferences and suggest me only the first 10(In this list the order of the films is random,In this list the order of the films does not represent any preference) : [Reservoir Dogs, Big Daddy, Mission to Mars, Nurse Betty, Little Voice, Moonstruck, Out to Sea, Bone Collector, The, Thirteenth Floor, The, Trading Places, Godfather: Part III, The, Dark City, Civil Action, A, Star Wars: Episode IV - A New Hope, Talented Mr. Ripley, The, Aliens, Fisher King, The, Abyss, The, Gladiator, Fish Called Wanda, A, Arlington Road, Blood Simple, Desperately Seeking Susan, Being John Malkovich, Twelve Monkeys, Summer of Sam, Thomas Crown Affair, The, Godfather, The, Dead Calm, Pacific Heights, Shawshank Redemption, The, Godfather: Part II, The, Rushmore, Inspector Gadget, Sixth Sense, The].
+> Assistant:  Sure, here are the first 10 movies from your list of favorite movies, sorted according to your preferences:
+1. Reservoir Dogs (1992)
+2. Big Daddy (1999)
+3. Moonstruck (1987)
+4. Little Voice (1998)
+5. Out to Sea (1998)
+6. Bone Collector (1999)
+7. Thirteenth Floor (1999)
+8. The Trading Places (1983)
+9. Godfather: Part III (1990)
+10. Dark City (1998)
+
+I hope this helps! Let me know if you have any other questions.
+==================================

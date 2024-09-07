@@ -1,0 +1,20 @@
+System: This are my favourite film genres: Drama, Action
+User: Suggest me films based on my favourite genres
+> Assistant:  Great! Based on your favorite film genres, here are some movie suggestions:
+
+Drama:
+1. The Shawshank Redemption (1994) - a highly acclaimed drama film about the journey of two prisoners.
+2. The Godfather (1972) - a classic drama film that explores the world of organized crime and the moral consequences of power.
+3. 12 Angry Men (1957) - a gripping drama film about a jury deliberating the fate of a young man accused of murder.
+4. Schindler's List (1993) - a powerful drama film that tells the true story of Oskar Schindler, a German businessman who saves the lives of thousands of Jews during the Holocaust.
+5. Manchester by the Sea (2016) - a drama film about a man who returns to his hometown after his brother's death and must confront his past and take care of his teenage nephew.
+
+Action:
+1. The Dark Knight (2008) - an action-packed superhero film that follows Batman as he battles the Joker and his henchmen in Gotham City.
+2. Mad Max: Fury Road (2015) - an adrenaline-fueled action film set in a post-apocalyptic world, where Max and Furiosa must fight against the tyrannical leader Immortan Joe.
+3. The Matrix (1999) - a groundbreaking science fiction film that follows Neo, a computer hacker who discovers that the world he knows is actually a simulated reality created by machines.
+4. Mission: Impossible - Ghost Protocol (2011) - an action-packed spy thriller that follows Ethan Hunt and his team as they try to clear their names after they are framed for a terrorist attack.
+5. The Bourne Identity (2002) - an action-packed spy thriller that follows Jason Bourne, an amnesiac assassin who tries to uncover his true identity and take down a secret government agency.
+
+I hope you enjoy these recommendations! Let me know if you have any other preferences or if you'd like more suggestions.
+==================================

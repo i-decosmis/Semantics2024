@@ -1,0 +1,48 @@
+User: This are my favourite film: Hamlet, Hard-Boiled (Lashou shentan), Backdraft, Total Recall, Speed, Deconstructing Harry, True Romance, Hilary and Jackie, Apollo 13, Nixon, High Fidelity, Clear and Present Danger. Suggest me the maximum amount of films based on my favourite genres, do not write film trama, just the name
+> Assistant:  Great! Based on your favorite films, here are some other movies you might enjoy:
+
+1. Drama:
+	* Manchester by the Sea (2016)
+	* Moonlight (2016)
+	* The Shawshank Redemption (1994)
+	* The Social Network (2010)
+	* 12 Angry Men (1957)
+2. Thriller:
+	* The Silence of the Lambs (1991)
+	* Se7en (1995)
+	* The Departed (2006)
+	* Memento (2000)
+	* Gone Girl (2014)
+3. Action:
+	* The Matrix (1999)
+	* Mad Max: Fury Road (2015)
+	* The Dark Knight (2008)
+	* The Bourne Identity (2002)
+	* Die Hard (1988)
+4. Comedy:
+	* The Big Lebowski (1998)
+	* Monty Python and the Holy Grail (1975)
+	* Airplane! (1980)
+	* Groundhog Day (1993)
+	* The Hangover (2009)
+5. Crime:
+	* Goodfellas (1990)
+	* The Godfather (1972)
+	* Scarface (1983)
+	* The Usual Suspects (1995)
+	* American Psycho (2000)
+6. Sci-Fi:
+	* Blade Runner (1982)
+	* The Terminator (1984)
+	* The Matrix (1999)
+	* Inception (2010)
+	* Interstellar (2014)
+7. Historical Drama:
+	* Schindler's List (1993)
+	* Lincoln (2012)
+	* 12 Years a Slave (2013)
+	* Gladiator (2000)
+	* The Last King of Scotland (2006)
+
+These are just a few examples of movies that might be similar to your favorite films. Of course, there are many other great movies out there, so don't be afraid to explore and discover new ones!
+==================================

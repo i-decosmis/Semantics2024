@@ -1,0 +1,34 @@
+User: This are my favourite film: Hamlet, Hard-Boiled (Lashou shentan), Backdraft, Total Recall, Speed, Deconstructing Harry, True Romance, Hilary and Jackie, Apollo 13, Nixon, High Fidelity, Clear and Present Danger. Suggest me 30 films based on my favourite films
+> Assistant:  Great! Based on your favorite films, I've selected 30 movies that you might enjoy. Here they are:
+1. The Shawshank Redemption (1994) - Like Hamlet, this film is a classic drama with a strong focus on character development and a thought-provoking story.
+2. The Usual Suspects (1995) - Similar to Hard-Boiled, this film is a crime thriller with a complex plot and memorable characters.
+3. The Matrix (1999) - Like Backdraft, this film is a groundbreaking sci-fi movie that explores themes of reality and perception.
+4. Minority Report (2002) - Similar to Total Recall, this film is a futuristic thriller that delves into themes of identity and memory.
+5. The Fugitive (1993) - Like Speed, this film is an action-packed thriller with a gripping plot and memorable characters.
+6. Pulp Fiction (1994) - Like Deconstructing Harry, this film is a non-linear, crime drama that explores themes of identity and the human condition.
+7. Reservoir Dogs (1992) - Similar to True Romance, this film is a crime drama with a gritty, realistic tone and memorable characters.
+8. Goodfellas (1990) - Like Hilary and Jackie, this film is a crime drama that explores themes of identity, loyalty, and the human condition.
+9. Apollo 13 (1995) - Like Nixon, this film is a historical drama that explores themes of leadership, power, and the human condition.
+10. Forrest Gump (1994) - Like High Fidelity, this film is a heartwarming drama that explores themes of identity, love, and the human condition.
+11. The Silence of the Lambs (1991) - Like Clear and Present Danger, this film is a crime thriller that explores themes of identity, power, and the human condition.
+12. The Departed (2006) - Similar to Clear and Present Danger, this film is a crime drama that explores themes of identity, loyalty, and the human condition.
+13. The Prestige (2006) - Like High Fidelity, this film is a mystery drama that explores themes of identity, love, and the human condition.
+14. Memento (2000) - Similar to Deconstructing Harry, this film is a non-linear drama that explores themes of identity and the human condition.
+15. The Prisoner (1967-1968) - Like True Romance, this classic TV series is a crime drama that explores themes of identity, loyalty, and the human condition.
+16. The Wicker Man (1973) - Like Hilary and Jackie, this cult classic is a horror film that explores themes of identity, loyalty, and the human condition.
+17. The Big Lebowski (1998) - Like High Fidelity, this film is a quirky comedy that explores themes of identity, love, and the human condition.
+18. Mulholland Drive (2001) - Similar to Deconstructing Harry, this surrealist film explores themes of identity, love, and the human condition.
+19. The Ice Storm (1997) - Like Clear and Present Danger, this film is a drama that explores themes of identity, power, and the human condition.
+20. The Social Network (2010) - Like Nixon, this film is a historical drama that explores themes of leadership, power, and the human condition.
+21. The Wolf of Wall Street (2013) - Like High Fidelity, this film is a biographical comedy-drama that explores themes of identity, love, and the human condition.
+22. The Wolf of Wall Street (2013) - Similar to Clear and Present Danger, this film is a crime drama that explores themes of identity, power, and the human condition.
+23. The Grand Budapest Hotel (2014) - Like Deconstructing Harry, this film is a quirky comedy-drama that explores themes of identity, love, and the human condition.
+24. The Grand Budapest Hotel (2014) - Similar to True Romance, this film is a crime drama with a gritty, realistic tone and memorable characters.
+25. The Big Sick (2017) - Like Hilary and Jackie, this film is a romantic comedy-drama that explores themes of identity, love, and the human condition.
+26. The Big Sick (2017) - Similar to Apollo 13, this film is a historical drama that explores themes of identity, power, and the human condition.
+27. The Fighter (2010) - Like High Fidelity, this film is a sports drama that explores themes of identity, love, and the human condition.
+28. The Fighter (2010) - Similar to Clear and Present Danger, this film is a crime drama that explores themes of identity, power, and the human condition.
+29. The Social Network (2010) - Similar to Nixon, this film is a historical drama that explores themes of leadership, power, and the human condition.
+30. The Social Network (2010) - Like The Wolf of Wall Street, this film is a biographical comedy-drama that explores themes of identity, love, and the human condition.
+I hope you enjoy these recommendations! Let me know if you have any questions or if you'd like more suggestions.
+==================================

@@ -1,0 +1,16 @@
+System: Write only the name and the year of the movies. Write a single list of movies that comprends every genres in my preferences.
+User: These are my favourite film: [Shawshank Redemption, The, Reservoir Dogs, Dead Calm, Twelve Monkeys, Dark City, Nurse Betty, Fish Called Wanda, A, Godfather, The, Sixth Sense, The, Summer of Sam, Godfather: Part II, The, Gladiator, Abyss, The, Civil Action, A, Star Wars: Episode IV - A New Hope, Thirteenth Floor, The, Desperately Seeking Susan, Fisher King, The, Little Voice, Aliens, Moonstruck, Blood Simple, Rushmore, Being John Malkovich, Pacific Heights].Sort this list using my preferences and suggest me only the first 10(In this list the order of the films is random,In this list the order of the films does not represent any preference) : [Summer of Sam, Godfather: Part III, The, Fish Called Wanda, A, Bone Collector, The, Nurse Betty, Mission to Mars, Sixth Sense, The, Civil Action, A, Star Wars: Episode IV - A New Hope, Shawshank Redemption, The, Dark City, Gladiator, Talented Mr. Ripley, The, Reservoir Dogs, Thomas Crown Affair, The, Inspector Gadget, Trading Places, Godfather: Part II, The, Out to Sea, Thirteenth Floor, The, Twelve Monkeys, Fisher King, The, Aliens, Abyss, The, Rushmore, Little Voice, Being John Malkovich, Blood Simple, Godfather, The, Moonstruck, Desperately Seeking Susan, Arlington Road, Big Daddy, Dead Calm, Pacific Heights].
+> Assistant:  Sure, here are the top 10 movies from your list, sorted by genre:
+1. Action: Gladiator (1999)
+2. Adventure: Star Wars: Episode IV - A New Hope (1977)
+3. Comedy: Desperately Seeking Susan (1985)
+4. Crime: Reservoir Dogs (1992)
+5. Drama: Shawshank Redemption (1994)
+6. Horror: The Sixth Sense (1999)
+7. Mystery: The Usual Suspects (1995)
+8. Romance: Moonstruck (1987)
+9. Sci-Fi: The Matrix (1999)
+10. Thriller: The Silence of the Lambs (1991)
+
+Note: Some movies on the list may belong to multiple genres, but I have listed them under the primary genre they are most associated with.
+==================================

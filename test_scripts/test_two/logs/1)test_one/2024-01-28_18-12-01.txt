@@ -1,0 +1,16 @@
+User: This are my favourite film: Hamlet, Hard-Boiled (Lashou shentan), Backdraft, Total Recall, Speed, Deconstructing Harry, True Romance, Hilary and Jackie, Apollo 13, Nixon, High Fidelity, Clear and Present Danger. Suggest me films based on my favourite films
+> Assistant:  Great! Based on your favorite films, here are some movie recommendations that you might enjoy:
+
+1. The Usual Suspects (1995) - Like Hard-Boiled, this film is a crime thriller with a complex plot and memorable characters.
+2. Pulp Fiction (1994) - Another crime drama with a non-linear narrative and intricate character development, similar to Hard-Boiled.
+3. Memento (2000) - A psychological thriller with a unique narrative structure, similar to the non-linear storytelling in Backdraft.
+4. The Fugitive (1993) - An action-packed thriller with a similar sense of urgency and suspense as Speed.
+5. Good Will Hunting (1997) - A drama with a similar blend of humor, drama, and memorable characters as True Romance.
+6. The Shawshank Redemption (1994) - A highly acclaimed drama with a similar blend of drama, suspense, and memorable characters as Hilary and Jackie.
+7. Apollo 13 (1995) - A historical drama with a similar sense of urgency and suspense as Apollo 13.
+8. The Departed (2006) - A crime drama with a similar blend of action, drama, and memorable characters as Nixon.
+9. High Fidelity (2000) - A coming-of-age comedy-drama with a similar blend of humor, music, and memorable characters as High Fidelity.
+10. Clear and Present Danger (1994) - An action-packed thriller with a similar sense of urgency and suspense as Clear and Present Danger.
+
+I hope you enjoy these recommendations! Let me know if you have any other questions.
+==================================

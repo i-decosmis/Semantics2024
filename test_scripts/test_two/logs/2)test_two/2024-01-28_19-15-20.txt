@@ -1,0 +1,51 @@
+User: This are my favourite film genres: Drama, Action. Suggest me 30 films based on my favourite genres
+> Assistant:  Great! Here are 30 films across the drama and action genres that you might enjoy:
+
+Drama:
+
+1. The Shawshank Redemption (1994)
+2. The Godfather (1972)
+3. The Dark Knight (2008)
+4. 12 Angry Men (1957)
+5. Schindler's List (1993)
+6. Forrest Gump (1994)
+7. The Green Mile (1999)
+8. The Pursuit of Happyness (2006)
+9. The Social Network (2010)
+10. The Fighter (2010)
+11. Silver Linings Playbook (2012)
+12. American Beauty (1999)
+13. The Matrix (1999)
+14. Inception (2010)
+15. Her (2013)
+16. The Grand Budapest Hotel (2014)
+17. The Imitation Game (2014)
+18. The Theory of Everything (2014)
+19. The Immigrant (2013)
+20. Carol (2015)
+
+Action:
+
+1. The Terminator (1984)
+2. Die Hard (1988)
+3. Mad Max: Fury Road (2015)
+4. The Bourne Identity (2002)
+5. The Avengers (2012)
+6. The Dark Knight Rises (2012)
+7. John Wick (2014)
+8. The Raid: Redemption (2011)
+9. The Expendables (2010)
+10. The Transporter (2002)
+11. Casino Royale (2006)
+12. The Bourne Ultimatum (2007)
+13. The Amazing Spider-Man (2012)
+14. The Wolverine (2013)
+15. Guardians of the Galaxy (2014)
+16. The Avengers: Age of Ultron (2015)
+17. Furious 7 (2015)
+18. Mission: Impossible - Rogue Nation (2015)
+19. The Equalizer (2014)
+20. Taken (2008)
+
+I hope you find some great movies to watch! Let me know if you have any specific preferences or if you want more recommendations.
+==================================

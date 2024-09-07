@@ -1,0 +1,24 @@
+System: This are my favourite film: Monty Python and the Holy Grail, Raiders of the Lost Ark, Alien, Lone Star, Star Wars: Episode IV - A New Hope, Aliens, Rocky, Searchers, The, Dark City, Close Shave, A, Braveheart, Boogie Nights, Spartacus, War of the Worlds, The, Short Cuts, Go Fish, Henry: Portrait of a Serial Killer, My Left Foot, Last Emperor, The, Dead Calm, Sliding Doors, Pink Flamingos, Lolita, Ever After: A Cinderella Story, Breaking Away, Cabaret, Robocop, American in Paris, An, Bananas, Being John Malkovich, Butch Cassidy and the Sundance Kid, Parenthood, Howards End, Manon of the Spring (Manon des sources), Pale Rider, Stand by Me, Fisher King, The, Mephisto, Deliverance, Thin Red Line, The, Rope, Shining, The, Patton, Graduate, The, Raise the Red Lantern, Heavenly Creatures, Midnight Cowboy, Clerks, Midnight Run, Big Night
+User: Suggest me the maximum amount of films based on my favourite genres, do not write film trama, just the name
+> Assistant:  Based on your favorite films, it seems that you enjoy a wide range of genres. Here are some suggestions for movies that you might enjoy, grouped by genre:
+Action/Adventure:
+* Raiders of the Lost Ark
+Comedy:
+* Monty Python and the Holy Grail
+Science Fiction/Fantasy:
+* Star Wars: Episode IV - A New Hope
+Horror:
+* Alien, The Shining
+Drama:
+* Lone Star, The Last Emperor, Midnight Cowboy
+Thriller:
+* Dead Calm, Patton
+Romance:
+* Ever After: A Cinderella Story, An American in Paris
+Crime/Mystery:
+* Lolita, Manon of the Spring, Midnight Run
+War:
+* War of the Worlds, The Battle of Algiers
+
+I hope you find some new movies to enjoy!
+==================================

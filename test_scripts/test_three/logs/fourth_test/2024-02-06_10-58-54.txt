@@ -1,0 +1,15 @@
+User: Write only the name and the year of the movies. Write a single list of movies that comprends every genres in my preferences.These are my favourite film genres: [Drama, Comedy]. Sort this list using my preferences and suggest me only the first 10(In this list the order of the films is random,In this list the order of the films does not represent any preference) : [Dirty Dancing, Duck Soup, Notting Hill, Piano, The, Reservoir Dogs, Client, The, L.A. Story, Ice Storm, The, Annie Hall, Braveheart, Dave, Anaconda, Addicted to Love, Cabin Boy, Once Were Warriors, American History X, Sense and Sensibility, After Life, Patriot Games, English Patient, The, Dances with Wolves, L.A. Confidential, Beetlejuice, Best Laid Plans, Cable Guy, The, Auntie Mame, Deep End of the Ocean, The, Brassed Off, Fugitive, The, Bull Durham, Amadeus, Antz, Avengers, The, Bananas, American President, The, GoodFellas, African Queen, The, Naked Gun: From the Files of Police Squad!, The, Simple Plan, A, Sleepless in Seattle, Ed Wood, Casablanca, My Dog Skip, Run Lola Run (Lola rennt), Airplane!, Apocalypse Now, Fight Club, Godfather, The, Close Shave, A, Coneheads, Raise the Red Lantern, Casper, Beauty and the Beast, Basquiat, Forrest Gump, Strictly Ballroom, Next Stop, Wonderland, Persuasion, When Harry Met Sally..., Green Mile, The, Get Shorty, Gone with the Wind, Cider House Rules, The, EDtv, Lolita, Edward Scissorhands, Barefoot in the Park, Fear and Loathing in Las Vegas, Sling Blade, Babe: Pig in the City, Big Chill, The, My Fellow Americans, Underground, My Cousin Vinny, Back to the Future Part II, Fabulous Baker Boys, The, In the Line of Fire, Browning Version, The, Being There, Meet the Parents, Analyze This, Roman Holiday, Shawshank Redemption, The, Back to the Future, Cape Fear, Hurricane, The, Sliding Doors, Austin Powers: International Man of Mystery, Eyes Wide Shut, Star Wars: Episode V - The Empire Strikes Back, Citizen Kane, Four Weddings and a Funeral, Elizabeth, Circle of Friends, Dead Man Walking, Dumb & Dumber, Bone Collector, The, Crying Game, The, Bob Roberts, As Good As It Gets, Being John Malkovich, Shakespeare in Love, Arlington Road, Armageddon, Dead Again, Chasing Amy, Graduate, The, Apostle, The, My Left Foot, Good Will Hunting, Groundhog Day, Election, Titanic, Wedding Singer, The, Blade Runner, Ace Ventura: Pet Detective].
+> Assistant:  Sure! Here are the first 10 movies from your list that match your preferred genres of Drama and Comedy:
+1. Dirty Dancing (Comedy, Drama)
+2. Notting Hill (Comedy, Romance)
+3. Piano (Drama)
+4. Reservoir Dogs (Crime, Drama)
+5. Client (Comedy, Drama)
+6. L.A. Story (Comedy)
+7. Ice Storm (Drama)
+8. Annie Hall (Comedy, Romance)
+9. Braveheart (Drama, History)
+10. Dave (Comedy, Drama)
+
+I hope this helps! Let me know if you need any more assistance.
+==================================

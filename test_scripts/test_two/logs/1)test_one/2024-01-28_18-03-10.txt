@@ -1,0 +1,15 @@
+System: This are my favourite film: Hamlet, Hard-Boiled (Lashou shentan), Backdraft, Total Recall, Speed, Deconstructing Harry, True Romance, Hilary and Jackie, Apollo 13, Nixon, High Fidelity, Clear and Present Danger
+User: Suggest me films based on my favourite films
+> Assistant:  Great! Based on the films you've listed, here are some movie recommendations that you might enjoy:
+1. The Shawshank Redemption (1994) - Like Hamlet, this film is a classic drama with a strong focus on character development and themes of hope and redemption.
+2. The Usual Suspects (1995) - Similar to Hard-Boiled, this film is a crime thriller with a complex plot and memorable characters.
+3. The Matrix (1999) - Like Backdraft, this film is a thought-provoking sci-fi actioner that explores the nature of reality and the impact of technology on society.
+4. Minority Report (2002) - Similar to Total Recall, this film is a futuristic action thriller that delves into themes of identity and free will.
+5. The Fugitive (1993) - Like Speed, this film is a tense, action-packed thriller that keeps you on the edge of your seat.
+6. Good Will Hunting (1997) - Like Deconstructing Harry, this film is a thought-provoking drama that explores themes of identity, human connection, and personal growth.
+7. Pulp Fiction (1994) - Similar to True Romance, this film is a crime drama with a non-linear narrative and memorable characters.
+8. Apollo 13 (1995) - Like Apollo 13, this film is a historical drama that explores the human spirit and the challenges of overcoming adversity.
+9. The Grand Budapest Hotel (2014) - Like High Fidelity, this film is a quirky, offbeat comedy-drama that explores themes of identity, relationships, and the power of art.
+10. Zero Dark Thirty (2012) - Like Clear and Present Danger, this film is a gripping, intense drama that explores the complexities of politics and the impact of events on individuals and society.
+I hope you enjoy these recommendations! Let me know if you have any other questions.
+==================================

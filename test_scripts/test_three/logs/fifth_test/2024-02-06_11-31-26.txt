@@ -1,0 +1,15 @@
+User: Write only the name and the year of the movies. Write a single list of movies that comprends every genres in my preferences.These are my favourite film genres: [Thriller, Drama]. Sort this list using my preferences and suggest me only the first 10(In this list the order of the films is random,In this list the order of the films does not represent any preference) : [Godfather: Part II, The, Fisher King, The, Dead Calm, Thirteenth Floor, The, Summer of Sam, Trading Places, Godfather: Part III, The, Nurse Betty, Rushmore, Abyss, The, Thomas Crown Affair, The, Being John Malkovich, Arlington Road, Sixth Sense, The, Dark City, Moonstruck, Godfather, The, Blood Simple, Pacific Heights, Civil Action, A, Gladiator, Little Voice, Desperately Seeking Susan, Inspector Gadget, Out to Sea, Star Wars: Episode IV - A New Hope, Aliens, Big Daddy, Fish Called Wanda, A, Mission to Mars, Reservoir Dogs, Twelve Monkeys, Shawshank Redemption, The, Talented Mr. Ripley, The, Bone Collector, The].
+> Assistant:  Sure! Here are the first 10 movies from your list that fit your preferred genres of Thriller and Drama:
+1. The Godfather: Part II (1977)
+2. The Fisher King (1991)
+3. Dead Calm (1989)
+4. The Thirteenth Floor (1999)
+5. Summer of Sam (1999)
+6. Trading Places (1983)
+7. The Godfather: Part III (1990)
+8. Nurse Betty (2000)
+9. Rushmore (1998)
+10. Being John Malkovich (1999)
+
+I hope you enjoy these movies! Let me know if you need any more recommendations.
+==================================

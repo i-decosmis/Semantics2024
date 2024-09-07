@@ -1,0 +1,27 @@
+System: This are my favourite film: Hamlet, Hard-Boiled (Lashou shentan), Backdraft, Total Recall, Speed, Deconstructing Harry, True Romance, Hilary and Jackie, Apollo 13, Nixon, High Fidelity, Clear and Present Danger
+User: Suggest me the maximum amount of films based on my favourite genres, do not write film trama, just the name
+> Assistant:  Great! Based on your favorite films, here are some other movies that you might enjoy:
+Action:
+* The Matrix (1999)
+Thriller:
+* Se7en (1995)
+Drama:
+* Goodfellas (1990)
+Crime:
+* The Godfather (1972)
+Science Fiction:
+* Blade Runner (1982)
+Comedy:
+* The Big Lebowski (1998)
+Romance:
+* When Harry Met Sally (1989)
+History:
+* Schindler's List (1993)
+Adventure:
+* Indiana Jones and the Raiders of the Lost Ark (1981)
+Horror:
+* The Exorcist (1973)
+Fantasy:
+* The Lord of the Rings: The Fellowship of the Ring (2001)
+I hope you find these recommendations helpful and enjoy watching some of these movies!
+==================================

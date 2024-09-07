@@ -1,0 +1,21 @@
+User: This are my favourite film genres: Drama, Action. Suggest me films based on my favourite genres
+> Assistant:  Great! Based on your favorite genres, here are some film recommendations:
+
+Drama:
+
+1. The Shawshank Redemption (1994) - a highly acclaimed and emotional drama about the journey of two prisoners.
+2. The Godfather (1972) - a classic crime drama that explores the world of organized crime and the moral consequences of the choices made by the characters.
+3. Schindler's List (1993) - a historical drama that tells the story of Oskar Schindler, a German businessman who saves the lives of thousands of Jews during the Holocaust.
+4. 12 Years a Slave (2013) - a powerful drama based on the true story of Solomon Northup, a free black man who is kidnapped and sold into slavery in the 19th century.
+5. Manchester by the Sea (2016) - a drama about a man who returns to his hometown after his brother's death and must confront his past and take care of his teenage nephew.
+
+Action:
+
+1. The Dark Knight (2008) - an action-packed superhero film that follows Batman as he tries to stop the Joker from wreaking havoc on Gotham City.
+2. Mad Max: Fury Road (2015) - an adrenaline-fueled post-apocalyptic action film that follows Max Rockatansky as he teams up with a group of women fighting against a tyrannical leader.
+3. The Matrix (1999) - a groundbreaking science fiction film that follows Neo as he discovers the truth about the simulated reality he lives in and must fight against the machines that have taken over the world.
+4. Mission: Impossible - Ghost Protocol (2011) - an action-packed spy thriller that follows Ethan Hunt and his team as they try to clear their names after they are framed for a terrorist attack.
+5. The Bourne Identity (2002) - an action-packed spy thriller that follows Jason Bourne as he tries to uncover the truth about his past and the conspiracy that created him.
+
+I hope you enjoy these recommendations! Let me know if you have any other preferences or if you would like more recommendations based on these genres.
+==================================

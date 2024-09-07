@@ -1,0 +1,6 @@
+Number of user without a movie: 0
+Percentage of user without a movie: 0.0%
+Number of user with at least 1 movie favourite found: 360
+Percentage of user with at least 1 movie favourite found: 40.13377926421405%
+Number of user with at least 5 movies favourite found: 4
+Percentage of user with at least 5 movies favourite found: 0.4459308807134894%
