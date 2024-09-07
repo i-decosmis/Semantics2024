@@ -4,8 +4,8 @@
 The goal of this project is to understand how far an LLM can be pushed by using it as a recommender system and varying its input prompt.
 
 ### Students
-- Federico Canistro
 - Ivan De Cosmis
+- Federico Canistro
 
 ### Details
 All the details are available at:
